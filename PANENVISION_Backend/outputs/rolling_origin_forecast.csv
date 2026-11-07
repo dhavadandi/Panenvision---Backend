@@ -1,0 +1,4 @@
+﻿fold,origin_time_idx,n_test_months,MAE_LightGBM,MAE_XGBoost,MAE_SeasonalNaive,MASE_LightGBM,MASE_XGBoost,MASE_SeasonalNaive
+1,54,12,398.48,421.46,821.05,0.399,0.422,0.823
+2,60,12,381.7,397.33,702.26,0.392,0.408,0.721
+3,66,12,333.85,369.57,665.56,0.341,0.378,0.68
